@@ -12,7 +12,7 @@
 
 <img width="938" alt="Screenshot 2023-07-07 165118" src="https://github.com/tanmay-churi/Retail-Analytics-Platform-PowerBI/assets/98447290/8c5e5f88-9417-4d98-9f36-dd27f5654717">
 
-### Dashboard
+### Power BI Dashboard
 
 <img width="808" alt="1" src="https://github.com/tanmay-churi/Retail-Analytics-Platform-PowerBI/assets/98447290/9415885a-a686-4754-ae3c-7e8c54d7008b">
 <img width="808" alt="2" src="https://github.com/tanmay-churi/Retail-Analytics-Platform-PowerBI/assets/98447290/20582ef0-005f-4d19-8773-a03d9edab65f">
